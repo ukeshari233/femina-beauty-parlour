@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const BUSINESS_CONFIG = {
     name: 'Femina Beauty Parlour',
     // Phone number in international format without spaces or plus sign:
-    waNumber: '917565911484',
+    waNumber: '917007679073',
     googleMapsUrl: 'https://share.google/3h52yfz905pQsJLbH',
     instagramUrl: 'https://www.instagram.com/femina.parlour_?dlrf=MW1qOTFjeWRoajU2Yw=='
   };

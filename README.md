@@ -34,7 +34,7 @@ femina-beauty-parlour/
 - **Business Name:** Femina Beauty Parlour
 - **Address:** Femina Beauty Parlour, near INDIAN BANK (Allahabad Bank), Raniganj Bazar, Uttar Pradesh 277208
 - **Google Maps:** [Open in Google Maps](https://share.google/3h52yfz905pQsJLbH)
-- **WhatsApp:** [+91 7565911484](https://wa.me/917565911484)
+- **WhatsApp:** [+91 7007679073](https://wa.me/917007679073)
 - **Instagram:** [@femina.parlour_](https://www.instagram.com/femina.parlour_?dlrf=MW1qOTFjeWRoajU2Yw==)
 
 ---
@@ -85,7 +85,7 @@ femina-beauty-parlour/
 ## ✏️ Maintenance & Customization
 
 - **Updating Services:** In `index.html`, locate the `<section class="section services-section" id="services">` and edit titles or descriptions in any `<article class="service-card">`.
-- **Updating WhatsApp Number:** In `script.js`, change the `waNumber` property in `BUSINESS_CONFIG` (format: country code without `+` or spaces, e.g., `917565911484`).
+- **Updating WhatsApp Number:** In `script.js`, change the `waNumber` property in `BUSINESS_CONFIG` (format: country code without `+` or spaces, e.g., `917007679073`).
 - **Updating Palette / Colors:** In `style.css`, modify the CSS variables in the `:root` block.
 
 ---
